@@ -1,5 +1,6 @@
 # Loan-Store
 Developed a Spring Boot application for a loan store, following these steps:
+
 Set Up: Created a Spring Boot project with necessary dependencies.
 Entity Class: Defined a Loan entity class with relevant fields.
 Repository: Established a LoanRepository interface for data operations.
